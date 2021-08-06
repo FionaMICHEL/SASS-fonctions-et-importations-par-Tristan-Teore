@@ -1,1 +1,1 @@
-# SASS-fonctions-et-importations-par-Tristan-Teore
+# SASS, fonctions et importations par Tristan Teore
